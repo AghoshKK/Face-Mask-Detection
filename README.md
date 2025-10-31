@@ -29,6 +29,7 @@ python train_mask_detector_mobilenet.py
 
 # 3️⃣ Run real-time detection
 python detect_mask_video_improved.py
+
 Press q to quit.
 
 ---
